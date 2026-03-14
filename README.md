@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech Savy with the goal of building problem solving tools
+🔭 kiangaa mwanoo 
 
 
 # 💻 Tech Stack:
